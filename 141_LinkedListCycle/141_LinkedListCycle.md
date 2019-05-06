@@ -36,7 +36,7 @@
 
 ![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test3.png)
 
-解答：
+solution:
 
 ```python
 # Definition for singly-linked list.

@@ -30,7 +30,7 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 
 - 给定链表的结点数介于 `1` 和 `100` 之间。
 
-解决方法:
+solution:
 
 ```python
 # Definition for singly-linked list.

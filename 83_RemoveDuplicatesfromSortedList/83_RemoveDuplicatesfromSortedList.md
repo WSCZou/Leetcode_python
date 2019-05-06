@@ -16,7 +16,7 @@
 输出: 1->2->3
 ```
 
-解答:
+solution:
 
 ```python
 # Definition for singly-linked list.

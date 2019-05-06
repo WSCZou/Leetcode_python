@@ -16,7 +16,7 @@
 输出: true
 ```
 
-解答：
+solution:
 
 ```python
 # Definition for singly-linked list.

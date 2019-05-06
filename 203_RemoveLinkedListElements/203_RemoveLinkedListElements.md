@@ -9,7 +9,7 @@
 输出: 1->2->3->4->5
 ```
 
-解决方法:
+solution:
 
 ```python
 # Definition for singly-linked list.
