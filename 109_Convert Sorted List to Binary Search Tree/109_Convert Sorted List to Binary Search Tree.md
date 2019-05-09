@@ -45,12 +45,12 @@ class Solution(object):
             
             while fast.next and fast.next.next:
                 
-                pre = slow
+                pre = slow #断开左边
                 fast = fast.next.next
                 slow = slow.next
             
             if  slow != node:
-                pre.next = None
+                pre.next = None #断开左边
                 return node, slow
             else:
                 return None, slow
