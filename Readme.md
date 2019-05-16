@@ -16,5 +16,6 @@
 | 109  | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md>) | 中等 |
 | 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)      | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/148_SortList/148_Sort%20List.md>) | 中等 |
 | 24   | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/24_SwapNodesinPairs/24_SwapNodesinPairs.md>) | 中等 |
-| 147  | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | python                                                       | 中等 |
+| 147  | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/147_Insertion%20Sort%20List/147_InsertionSortList.md>) | 中等 |
+| 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | python                                                       | 中等 |
 
