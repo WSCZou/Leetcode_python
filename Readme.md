@@ -18,5 +18,6 @@
 | 24   | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/24_SwapNodesinPairs/24_SwapNodesinPairs.md>) | 中等 |
 | 147  | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/147_Insertion%20Sort%20List/147_InsertionSortList.md>) | 中等 |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/328_OddEvenLinkedList/328_OddEvenLinkedList.md>) | 中等 |
-| 817  | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) | python                                                       | 中等 |
+| 817  | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/817_LinkedListComponents/817_LinkedListComponents.md>) | 中等 |
+| 143  | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | python                                                       | 中等 |
 
