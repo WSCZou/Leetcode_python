@@ -4,7 +4,7 @@
 
 | #    | 题目                                                         | 解决方法                                                     | 难度 |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 21   | [**合并两个有序链表**](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/21_mergetwosortedlist/21_mergetwosortedlist.md>) | 简单 |
+| 21   | [合并两个有序链表](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/21_mergetwosortedlist/21_mergetwosortedlist.md>) | 简单 |
 | 83   | [删除排序链表中的重复元素](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/>) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/83_RemoveDuplicatesfromSortedList/83_RemoveDuplicatesfromSortedList.md>) | 简单 |
 | 206  | [反转链表](<https://leetcode-cn.com/problems/reverse-linked-list/>) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/206_ReverseLinkedList/206_ReverseLinkedList.md>) | 简单 |
 | 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/876_MiddleoftheLinkedList/876_MiddleoftheLinkedList.md>) | 简单 |
@@ -19,5 +19,6 @@
 | 147  | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/147_Insertion%20Sort%20List/147_InsertionSortList.md>) | 中等 |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/328_OddEvenLinkedList/328_OddEvenLinkedList.md>) | 中等 |
 | 817  | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/817_LinkedListComponents/817_LinkedListComponents.md>) | 中等 |
-| 143  | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | python                                                       | 中等 |
+| 143  | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [python](<https://github.com/WSCZou/Leetcode_python/blob/master/143_ReorderList/143_ReorderList.md>) | 中等 |
+| 86   | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | python                                                       | 中等 |
 
